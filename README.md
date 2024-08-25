@@ -1,2 +1,2 @@
 # python-parsing
-parding the classes in a sample python code
+parsing the classes in a sample python code
