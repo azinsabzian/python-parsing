@@ -56,6 +56,3 @@ if __name__ == "__main__":
     parsed_data = parser.parse()
 
     print(json.dumps(parsed_data, indent=4))
-  # Save in output file
-    with open("output.json", "w") as outfile:
-        json.dump(parsed_data, outfile, indent=4)
