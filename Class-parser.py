@@ -13,7 +13,7 @@ class PythonClassParser:
 
     def _parse_file(self):
       """
-        Reads the Python file and parses its contents into an AST.
+        parsing into an AST.
         """
         
         with open(self.filename, "r") as file:
